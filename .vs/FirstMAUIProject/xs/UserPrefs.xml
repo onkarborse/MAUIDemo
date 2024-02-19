@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4D1BA0B1-02B9-47A8-A311-7260098216B9}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMAUIProject/MainPage.xaml">
+    <Files>
+      <File FileName="FirstMAUIProject/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FirstMAUIProject/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="FirstMAUIProject/App.xaml.cs" />
+      <File FileName="FirstMAUIProject/AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="FirstMAUIProject/TestPage.xaml" Line="1" Column="1" />
+      <File FileName="FirstMAUIProject/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="FirstMAUIProject/TestPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstMAUIProject" expanded="True">
+            <Node name="FirstMAUIProject" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="TestPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FirstMAUIProject PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3CA1002D-A1AD-4531-9199-6381D07047F8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3CA1002D-A1AD-4531-9199-6381D07047F8" />
+</Properties>
